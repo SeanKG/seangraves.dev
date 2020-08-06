@@ -33,7 +33,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Sean Graves: Developer</title>
 </svelte:head>
 
 <h1>Great success!</h1>
