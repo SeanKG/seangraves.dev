@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "seangraves.dev",
+  "description": "site source for seangraves.dev",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
