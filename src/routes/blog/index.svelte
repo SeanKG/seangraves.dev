@@ -18,7 +18,7 @@
 </style>
 
 <svelte:head>
-	<title>Blog</title>
+	<title>Sean Graves: Blog</title>
 </svelte:head>
 
 <h1>Recent posts</h1>
