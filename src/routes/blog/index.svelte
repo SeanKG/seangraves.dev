@@ -21,7 +21,7 @@
 	<title>Sean Graves: Blog</title>
 </svelte:head>
 
-<h1>Recent posts</h1>
+<h1>Maybe I'll make a blog one day...</h1>
 
 <ul>
 	{#each posts as post}

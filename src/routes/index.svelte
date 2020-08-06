@@ -36,11 +36,11 @@
 	<title>Sean Graves: Developer</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Hey! I'm Sean</h1>
 
 <figure>
 	<img alt='Success Kid' src='successkid.jpg'>
-	<figcaption>Have fun with Sapper!</figcaption>
+	<figcaption>(This isn't actually me)</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>I'm a software engineer and this is going to be my personal website.</strong></p>
