@@ -54,7 +54,7 @@
 </style>
 
 <svelte:head>
-	<title>{post.title}</title>
+	<title>Sean Graves: {post.title}</title>
 </svelte:head>
 
 <h1>{post.title}</h1>
